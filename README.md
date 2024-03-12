@@ -1,4 +1,4 @@
-### Hi there 👋
+### starting something new 🇧🇷
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
@@ -20,6 +20,8 @@
 <!--
 **matheusfpantoja/matheusfpantoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+possible icons
+⭕🧧🀄🔴
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
